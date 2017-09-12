@@ -23,5 +23,5 @@ sdfasdfsa fdf dfsdfa dsfads fadsfdf asdf asdf sadfsdf sa.
 
 ### Copyright
 
-A.B.C.2017
+A.B.C.2017 All Rights Reserved.
 
