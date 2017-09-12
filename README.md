@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 Test test Test. Just adding some text
-and lines. Then
-more changes.
+and lines. Emergency fix after stashing.
 
 ## Introduction
 
